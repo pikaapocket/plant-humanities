@@ -44,6 +44,7 @@ The white mulberry (*Morus alba*) is believed to be native to East Asia and the 
 *Morus* trees bear long aggregate fruit, somewhat resembling a blackberry, which comes in various colors—green, white, red, black—and is rich in antioxidants. But the most historically significant, valuable part of the mulberry trees have been their leaves. Like the trees themselves, the leaves of the mulberry vary greatly in form, with leaf texture and shape ranging from shiny to matte, lobed or unlobed. Even on a single tree, there can be dozens of differently shaped leaves. For no other tree has the leaf been more valuable than the *Morus alba*. This species, characterized in one text as a "sociable and loyal" tree that is "used to being of service to others," is the mulberry whose leaves allow the silkworm to produce the best quality of silk. [^10]
 
 ### Sericulture, the Alchemy that Creates Raw Silk
+It is the larvae of a species of moth called Bombyx mori, more commonly known as the silkworm, that produce silk. Over centuries of domestication, the once-wild silk moth Bombyx mandarina was bred into the familiar Bombyx mori, maintaining its preference for Morus alba leaves, while the white mulberry was bred to contain fewer tannins and more protein. [^11]
 
 [^1]: J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts* (Boston: Carter, Hendee, and Babcock, 1833), 13.
 [^2]: Cobb, *A Manual Containing Information.*
@@ -55,3 +56,4 @@ The white mulberry (*Morus alba*) is believed to be native to East Asia and the 
 [^8]: Coles, *Mulberry.*
 [^9]: Scott, Timothy Lee. *Invasive plant medicine: the ecological benefits and healing abilities of invasives.* Simon and Schuster, 2010.
 [^10]: Coles, *Mulberry.*
+[^11]: Stephen Harris, *What Have Plants Ever Done for Us? Western Civilization in Fifty Plants* (Oxford: Bodleian Library, University of Oxford, 2015).

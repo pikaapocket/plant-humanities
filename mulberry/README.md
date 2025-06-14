@@ -48,7 +48,7 @@ It is the larvae of a species of moth called Bombyx mori, more commonly known as
 
 Measuring anywhere between 600 and 900 meters in length, it is this filament that the worms produce which becomes the luxurious material known as silk. In order to prevent the precious thread from breaking when the adolescent moth emerges, the cocoons are steamed to kill the larvae, sometimes twisting the filaments from several cocoons together. [^13]
 
-In the case of the non-violent silk Ahimsa, an alternative production method that uses silk left over after the moth has emerged from the cocoon, all the filaments that have been broken must be rejoined through twisting. The result in either case is a single strand of silk thread. [^14]
+In the case of the non-violent silk *Ahimsa*, an alternative production method that uses silk left over after the moth has emerged from the cocoon, all the filaments that have been broken must be rejoined through twisting. The result in either case is a single strand of silk thread. [^14]
 
 Having captured the intrigue of kings and queens, silk traveled around the globe. Where silk went, the silkworm *Bombyx mori *and the white mulberry *Morus alba* followed. [^15]
 

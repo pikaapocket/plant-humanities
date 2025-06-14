@@ -5,7 +5,7 @@
        source-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/The_Mulberry_tree_at_St._Mary%27s_Point.jpg/640px-The_Mulberry_tree_at_St._Mary%27s_Point.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/The_Mulberry_tree_at_St._Mary%27s_Point.jpg/640px-The_Mulberry_tree_at_St._Mary%27s_Point.jpg" 
        height=100
-       author="Kate and Viveca"
+       author="Kate Aubrecht and Viveca Mellegärd"
        layout="vertical">
 
 ### Introduction

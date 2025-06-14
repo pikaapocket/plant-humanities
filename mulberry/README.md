@@ -27,7 +27,9 @@ Conversely, the United States was spending a fortune on foreign silk: between 18
 
 Despite investing years of effort, however, Wheeler’s dream of turning leaves into gold came to nothing. By the fall of 1839, the demand for mulberry trees had collapsed and thousands of acres of white mulberry plantations across Virginia and Georgia lay abandoned, their planters now destitute. [^5] 
 
-Here we tell the story of loss, but also one of renewal and metamorphosis. In the shadows of the fields haunted by white mulberries rose the canopies of another tree: *Morus rubra*, the red mulberry native to North America. While its eastern relative, the white mulberry, has captured attention throughout history, both within and outside of its native ranges, the red mulberry has been overshadowed even in its home continent. Even though the red mulberry is found almost nowhere else in the world but North America, more often than not it is the white mulberry that comes to mind when we think of a mulberry tree.
+Here we tell the story of loss, but also one of renewal and metamorphosis. In the shadows of the fields haunted by white mulberries rose the canopies of another tree: *Morus rubra*, the red mulberry native to North America. 
+
+While its eastern relative, the white mulberry, has captured attention throughout history, both within and outside of its native ranges, the red mulberry has been overshadowed even in its home continent. Even though the red mulberry is found almost nowhere else in the world but North America, more often than not it is the white mulberry that comes to mind when we think of a mulberry tree.
 
 The story of the red mulberry is a less glamorous one, certainly neither of princesses nor the dreams of riches promised by silk. A story earthier in its substance, more of trunk and twig, bark and berry, root and the breeze that gets caught in a generous canopy. These are the threads, certainly not of silk, but of Indigenous wisdom, landscapes of heritage and memory, in which the *Morus rubra*, as a tree in and of itself, is a horticultural marvel, medicine chest, source of food, fiber, wood, and respite. 
 

@@ -66,4 +66,4 @@ In the case of the non-violent silk Ahimsa, an alternative production method tha
 [^12]: Coles, *Mulberry*.
 [^13]: "sericulture." Britannica Academic, Encyclopædia Britannica, 26 Jan. 2012.
 academic-eb-com.ezp-prod1.hul.harvard.edu/levels/collegiate/article/sericulture/470923. Accessed 25 Nov. 2024.
-[^14]: https://en.wikipedia.org/wiki/Ahimsa_silk. Accessed 18 Dec 2024
+[^14]: Ahimsa silk on Wikipedia

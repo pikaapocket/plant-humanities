@@ -23,7 +23,15 @@ Addressing the House of Representatives on Thursday, February 24, 1831, Mr. Abel
 	   src="gh:pikaapocket/plant-humanities/main/mulberry/morus-alba-1.jpeg"
 	   caption="This is the third image.">
 
+### Blah blah.
+
+### Taxonomy, Genus, and Types of Mulberry
+The mulberry genus Morus is part of the family Moraceae, which includes mulberries and figs. Even within mulberry species, morphology differs greatly, especially with the white mulberry, and it is unclear how many species listed in the genus are distinct, with estimates ranging from eight to seventeen.[^7] However, the three main types of mulberry are generally considered to be white, red, and black, the most common species of which are the Morus alba, Morus rubra, and Morus nigra. The white mulberry (Morus alba) is believed to be native to East Asia and the Himalayas, although centuries of domestication and human movement have made it difficult to know its native range for certain. [^8] 
+
 
 [^1]: J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts* (Boston: Carter, Hendee, and Babcock, 1833), 13.
 [^2]: Cobb, *A Manual Containing Information.*
 [^3]: United States Department of Treasury Doc. No. 158
+
+[^7]: Laws, Bill. Fifty plants that changed the course of history. Newton Abbot: David & Charles, 2010.
+[^8]: Coles, *Mulberry.*

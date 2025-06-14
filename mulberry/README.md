@@ -44,7 +44,13 @@ The white mulberry (*Morus alba*) is believed to be native to East Asia and the 
 *Morus* trees bear long aggregate fruit, somewhat resembling a blackberry, which comes in various colors—green, white, red, black—and is rich in antioxidants. But the most historically significant, valuable part of the mulberry trees have been their leaves. Like the trees themselves, the leaves of the mulberry vary greatly in form, with leaf texture and shape ranging from shiny to matte, lobed or unlobed. Even on a single tree, there can be dozens of differently shaped leaves. For no other tree has the leaf been more valuable than the *Morus alba*. This species, characterized in one text as a "sociable and loyal" tree that is "used to being of service to others," is the mulberry whose leaves allow the silkworm to produce the best quality of silk. [^10]
 
 ### Sericulture, the Alchemy that Creates Raw Silk
-It is the larvae of a species of moth called Bombyx mori, more commonly known as the silkworm, that produce silk. Over centuries of domestication, the once-wild silk moth Bombyx mandarina was bred into the familiar Bombyx mori, maintaining its preference for Morus alba leaves, while the white mulberry was bred to contain fewer tannins and more protein. [^11]
+It is the larvae of a species of moth called Bombyx mori, more commonly known as the silkworm, that produce silk. Over centuries of domestication, the once-wild silk moth Bombyx mandarina was bred into the familiar Bombyx mori, maintaining its preference for Morus alba leaves, while the white mulberry was bred to contain fewer tannins and more protein. [^11] For the blind, flightless larvae, the leaves of the white mulberry are one of the only foods they will eat and what they are most partial to; it follows that their cocoons are made from the secretions from two glands, which harden into a long fiber that’s rich in protein. [^12] 
+
+Measuring anywhere between 600 and 900 meters in length, it is this filament that the worms produce which becomes the luxurious material known as silk. In order to prevent the precious thread from breaking when the adolescent moth emerges, the cocoons are steamed to kill the larvae, sometimes twisting the filaments from several cocoons together. [^13]
+
+In the case of the non-violent silk Ahimsa, an alternative production method that uses silk left over after the moth has emerged from the cocoon, all the filaments that have been broken must be rejoined through twisting. The result in either case is a single strand of silk thread. [^14]
+
+
 
 [^1]: J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts* (Boston: Carter, Hendee, and Babcock, 1833), 13.
 [^2]: Cobb, *A Manual Containing Information.*
@@ -57,3 +63,7 @@ It is the larvae of a species of moth called Bombyx mori, more commonly known as
 [^9]: Scott, Timothy Lee. *Invasive plant medicine: the ecological benefits and healing abilities of invasives.* Simon and Schuster, 2010.
 [^10]: Coles, *Mulberry.*
 [^11]: Stephen Harris, *What Have Plants Ever Done for Us? Western Civilization in Fifty Plants* (Oxford: Bodleian Library, University of Oxford, 2015).
+[^12]: Coles, *Mulberry*.
+[^13]: "sericulture." Britannica Academic, Encyclopædia Britannica, 26 Jan. 2012.
+academic-eb-com.ezp-prod1.hul.harvard.edu/levels/collegiate/article/sericulture/470923. Accessed 25 Nov. 2024.
+[^14]: https://en.wikipedia.org/wiki/Ahimsa_silk. Accessed 18 Dec 2024

@@ -50,7 +50,7 @@ Measuring anywhere between 600 and 900 meters in length, it is this filament tha
 
 In the case of the non-violent silk Ahimsa, an alternative production method that uses silk left over after the moth has emerged from the cocoon, all the filaments that have been broken must be rejoined through twisting. The result in either case is a single strand of silk thread. [^14]
 
-
+Having captured the intrigue of kings and queens, silk traveled around the globe. Where silk went, the silkworm Bombyx mori and the white mulberry *Morus alba*. [^15]
 
 [^1]: J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts* (Boston: Carter, Hendee, and Babcock, 1833), 13.
 [^2]: Cobb, *A Manual Containing Information.*
@@ -66,3 +66,4 @@ In the case of the non-violent silk Ahimsa, an alternative production method tha
 [^12]: Coles, *Mulberry*.
 [^13]: "sericulture." Britannica Academic, Encyclopædia Britannica, 26 Jan. 2012.
 [^14]: Ahimsa silk on Wikipedia
+[^15]: Coles, *Mulberry*.

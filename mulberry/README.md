@@ -16,6 +16,9 @@ Addressing the House of Representatives on Thursday, February 24, 1831, Mr. Abel
 <param ve-image
 	   src="wc:Morus alba-leaves.jpg"
 	   caption="This is the first image I want to display.">
+<param ve-image
+	   src="wc:Morus bombycis D250404 b.jpg"
+	   caption="This is the second image I want to display.">
 
 [^1]: J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts* (Boston: Carter, Hendee, and Babcock, 1833), 13.
 [^2]: Cobb, *A Manual Containing Information.*

@@ -112,7 +112,7 @@ The first concrete evidence of sericulture was discovered in Shandong and Huzhou
 Although the Chinese had closely guarded the secret of the mulberry and silkworm for centuries, upon the second-century BCE, trading of silk on the Silk Road, the white mulberry, and the practice of silkworm sericulture began to appear elsewhere. How this secret first escaped China is unclear. It is possible Chinese migrants making their way to Korea or Japan brought the process with them. However, according to popular myth, a Chinese princess engaged to a Khotanese king brought the mulberry and silkworm out of China. To learn the Chinese art of sericulture, the king sent word that there was no silk production in his country, prodding the princess to bring sericulture to Khotan lest she lose access to silk entirely.[^31] Cleverly, she smuggled silkworm eggs and white mulberry seeds out of the country in her hairpiece, which Chinese inspectors dared not touch.[^32]
 <param ve-image
 	   src="wc:British Museum silk princess painting.jpg"
-	   caption="Khotanese votive panel from Dandan-oilik (Place of Houses with Ivory) depicting Silk Princess">
+	   caption="Khotanese votive panel from Dandan-oilik (Place of Houses with Ivory) depicting Silk Princess, circa">
 <param ve-image>
 
 Evidence of white mulberry cultivation in Khotan emerging from 150–350 CE might support this story. By the seventh to eighth centuries CE, the legend was being incorporated artistically into artifacts such as wall paintings and votive panels. Interestingly, in both the panel presented here, and in different depictions, a four-armed deity is present, possibly representing a god of silk or a smaller local deity who protected silk production.[^33]

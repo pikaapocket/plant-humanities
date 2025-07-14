@@ -41,17 +41,22 @@ The mulberry genus Morus is part of the family Moraceae, which includes mulberri
 	   caption="Illustration of *Morus nigra* from *Medical Botany* by John Stephenson and James Morss Churchill, circa 1836. Accessed via Wikimedia Commons.">
 
 The white mulberry is believed to be native to East Asia and the Himalayas, although centuries of domestication and human movement have made it difficult to know its native range for certain.[^7] Less intensive human relationships have allowed more certainty to the whereabouts of the other groups’ native ranges: the red mulberry is from North America and the black mulberry is from the area around the Caspian Sea in what used to be the Persian Empire. This narrative focuses on the white mulberry—most famous for its role in silk production—and the red mulberry, which, as we will discover, plays a less well-known but equally valuable role in North America’s biocultural heritage.[^8]
-<param ve-map-layer geojson
+<param ve-map-layer 
+	        geojson
             url="https://raw.githubusercontent.com/pikaapocket/plant-humanities/main/mulberry/Morus_alba_Distribution_Map.json"
             show-labels
             stroke-width="0"
 			caption="Possible native distribution of *Morus alba*.">
-<param ve-map-layer geojson
+
+
+<param ve-map-layer 
+	        geojson
             url="https://raw.githubusercontent.com/pikaapocket/plant-humanities/main/mulberry/Morus_rubra_Distribution_Map.json"
             show-labels
             stroke-width="0"
 			caption="Possible native distribution of *Morus rubra*.">
-<param ve-map-layer geojson
+<param ve-map-layer 
+	        geojson
             url="https://raw.githubusercontent.com/pikaapocket/plant-humanities/main/mulberry/Morus_nigra_Distribution_Map.json"
             show-labels
             stroke-width="0"
@@ -264,22 +269,8 @@ White mulberry is malleable, and the qualities that human cultivators imbued in 
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 39 Julia Ellen Rogers 1927 The Nature Library Trees.png"
 	   caption="Drawing of a red mulberry tree by Julia Ellen Rogers in the 1927 edition of The Nature Library Trees">
 	   
+	
 	   
-
-
-<param ve-iframe
-	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
-	   
-<param ve-video
-	   src="77ktNSPFbwQ"
-	   start="60"
-	   end="90">
-	   
-<param ve-iframe
-	   src=paste knightlab
-	   
-
-
 [^1]: J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts* (Boston: Carter, Hendee, and Babcock, 1833), 13.
 [^2]: United States Department of Treasury Doc. No. 158
 [^3]: United States Department of Treasury Doc. No. 158. p iii. Although mulberry trees prefer moist, well-drained soil, they can tolerate acidic or alkaline conditions as well as full sun or partial shade.	   

@@ -160,7 +160,7 @@ Since a silkworm consumes about sixty grams of white mulberry leaves during its 
 	   src="wc:At_Totopotomay Creek,_Va._LCCN2004660390.jpg"
 	   caption="Pencil sketch of mulberry trees and locusts on tan paper, entitled At Totopotomay Creek by Alfred Waud, circa 1864. Library of Congress via Wikimedia Commons.">
 
-### Timeline
+### Timeline Summary
 
 <iframe 
 		src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' 

@@ -52,7 +52,7 @@ The mulberry genus Morus is part of the family Moraceae, which includes mulberri
 	   caption="Watercolor illustration of *Morus alba* by Tessie Frank, circa 1895-1935. Courtesy of Harvard University, public domain via Harvard Library.">
 	   <param ve-image
 	   src="wc:llustration_from_Medical_Botany,_digitally_enhanced_from_rawpixel%27s_own_original_plates_88.jpg"
-	   caption="Illustration of *Morus nigra* from *Medical Botany* by John Stephenson and James Morss Churchill, circa 1836. Accessed via Harvard Library.">
+	   caption="Illustration of *Morus nigra* from *Medical Botany* by John Stephenson and James Morss Churchill, circa 1836. Accessed via Wikimedia Commons.">
 
 The white mulberry is believed to be native to East Asia and the Himalayas, although centuries of domestication and human movement have made it difficult to know its native range for certain.[^7] Less intensive human relationships have allowed more certainty to the whereabouts of the other groups’ native ranges: the red mulberry is from North America and the black mulberry is from the area around the Caspian Sea in what used to be the Persian Empire. This narrative focuses on the white mulberry—most famous for its role in silk production—and the red mulberry, which, as we will discover, plays a less well-known but equally valuable role in North America’s biocultural heritage.[^8]
 

@@ -100,7 +100,7 @@ src="wc:%E9%BB%83%E5%B8%9D%E5%A6%83%E8%A5%BF%E9%99%B5%E6%B0%8F%E6%95%99%E6%B0%91
 The first concrete evidence of sericulture was discovered in Shandong and Huzhou from around 2700 BCE: silk ribbons and threads, and a silkworm cocoon split cleanly with a sharp tool.[^27] The first evidence of Chinese cultivation of the white mulberry was discovered a thousand years later.[^28] Refined for several hundred years, sericulture techniques were subsequently printed in the Chinese text Qimin Yaoshu (齐民要术), a work from 533 BCE containing information on ancient agricultural practices.[^29] By the nineteenth century, visiting English explorers reported highly specialized cultivation practices of both the mulberry trees and silkworms. In May 1845, Robert Fortune wrote that the Chinese did not allow mulberry trees "to grow more than from four to six feet in height"—indicating copious pruning of the tree for ease of leaf-picking since women and children mostly did this.[^30]
 <param ve-image
 	   src="wc:Neolithic_Bone_Needles_(9929219405).jpg"
-	   caption="Pyramus and Thisbe by Hans Wechtlin c1510. Public domain">
+	   caption="Neolithic-age bone needles found in Shanxi, China, which is believed to be some of the earliest evidence of sericulture ever found. Gary Todd from Xinzheng, China, CC0, via Wikimedia Commons.">
 	   
 <param ve-image
 	   src="wc:pikaapocket/plant-humanities/main/mulberry/P15 Gathering Mulberry.jpeg"
@@ -113,13 +113,11 @@ Although the Chinese had closely guarded the secret of the mulberry and silkworm
 <param ve-image
 	   src="wc:British Museum silk princess painting.jpg"
 	   caption="Khotanese votive panel from Dandan-oilik (Place of Houses with Ivory) depicting Silk Princess, circa 7th to 8th century.">
-<param ve-image>
 
 Evidence of white mulberry cultivation in Khotan emerging from 150–350 CE might support this story. By the seventh to eighth centuries CE, the legend was being incorporated artistically into artifacts such as wall paintings and votive panels. Interestingly, in both the panel presented here, and in different depictions, a four-armed deity is present, possibly representing a god of silk or a smaller local deity who protected silk production.[^33]
 <param ve-image
 	   src="wc:Indian_deity_attributed_to_Vi%C5%9Ba_%C4%AArasang%C3%A4.jpg"
 	   caption="Khotanese votive panel portraying a possible three-headed God of Silk or Patron of Weaving, circa 6th to 8th century. Publicly available via Wikimedia Commons.">
-<param ve-image>
 
 According to another legend, the sixth century Byzantine Emperor Justinian I bribed monks to smuggle silkworm eggs and white mulberry seeds to Constantinople, which they did using hollow canes purportedly from Persia.[^34] Whether or not these stories are true, the secret of sericulture spread—and the mulberry trees themselves, first to the Byzantine Empire in the 500s, then to Spain in the 900s and to England in the 1600s.[^35] Sericulture slowly expanded westward, further spurred by industrialization and new, cheap silk production methods, with the black mulberry planted as sericulture’s companion. Eventually, the white mulberry followed, appreciated for both its sericultural importance and the versatility of its fruit.[^36]
 

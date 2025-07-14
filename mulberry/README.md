@@ -183,15 +183,6 @@ Since a silkworm consumes about sixty grams of white mulberry leaves during its 
 	   src="wc:At_Totopotomay Creek,_Va._LCCN2004660390.jpg"
 	   caption="Pencil sketch of mulberry trees and locusts on tan paper, entitled At Totopotomay Creek by Alfred Waud, circa 1864. Library of Congress via Wikimedia Commons.">
 
-### Timeline Summary
-
-<iframe 
-		src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' 
-		width='100%' 
-		height='650' 
-		webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
-</iframe>
-
 ### The Love Affair Turns Sour
 
 Present in the landscapes of our childhoods and imaginations, how was it that the mulberry tree transformed from the harbinger of wealth to a pest, by some accounts, even an invasive species? A key factor is "mulberry mania," which took hold of the northeastern United States in the 1830s. The fast-growing Morus multicaulis tree—a white mulberry variant that arrived in the United States from China, had immediate appeal. Its large leaves were easy to harvest and provided an abundant and nutritious source of food for silkworms. State subsidies encouraged the widespread planting of trees to supply an ever-increasing number of forays into silk production.[^56]  

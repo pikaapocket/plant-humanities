@@ -8,24 +8,12 @@
        author="Kate Aubrecht and Viveca Mellegärd"
        layout="vertical">
 
-### Blah blah.
-blahbalaha;l
-<param ve-iframe
-	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
-
-### Taxonomy, Genus, and Types of Mulberry
-The mulberry genus *Morus* is part of the family *Moraceae*, which includes mulberries and figs. Even within mulberry species, morphology differs greatly, especially with the white mulberry, and it is unclear how many species listed in the genus are distinct, with estimates ranging from eight to seventeenowever, the three main types of mulberry are generally considered to be white, red, and black, the most common species of which are the *Morus alba*, *Morus rubra*, and *Morus nigra*. 
-<param ve-video
-	   src="77ktNSPFbwQ">
-
-
 ### Introduction
 
 Addressing the House of Representatives on Thursday, February 24, 1831, Abel Wheeler, Chairman of the Committee on Agriculture, reported that the power and wealth of France were mainly derived from silk production and that a number of other European countries had embarked on the same path "with zeal."[^1] Conversely, the United States was spending a fortune on foreign silk: between 1821 and 1825 the total value of imported silk was worth approximately $945 million in today’s currency.[^2]  To further his point, Mr. Wheeler compared this vast sum to the revenue generated from US bread exports: a paltry $5 million a year, or about $180 million today. Not only could mulberry leaves—the food of silkworms—be transformed into stacks of cash, but the mulberry tree itself was undemanding, requiring neither good soil nor good climate.[^3] However, as we will discover, despite years of effort to establish sericulture in the U.S, Wheeler's dream of turning leaves into gold came to nothing.
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P1 The House of Represent.jpg"
 	   caption="The House of Representatives, painting by Samuel F.B. Morse 1822-1823">
-<param ve-image>	   
 
 >The only appropriate food for the silkworm is the leaf of the mulberry tree. It should be the first business therefore of the silk grower to provide himself with the source of a constant supply of mulberry leaves.[^4]
 
@@ -33,13 +21,11 @@ Here we tell the story of loss, but also one of renewal and metamorphosis. In th
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P2 Morus rubra iNaturalist.jpeg"
 	   caption="Leaf of Morus rubra, the red mulberry. Photo credit lanechaffin 2024">
-<param ve-image>
 
 The story of the red mulberry is a less glamorous one than that of the white mulberry and the dreams of riches promised by silk. It is a story earthier in its substance, more of root, trunk, and twig; bark and berry; and the breeze that gets caught in a generous canopy. These are the threads of Indigenous wisdom, landscapes of heritage and memory, in which the red mulberry is a horticultural marvel: a medicine chest, source of food, fiber, wood, and respite. Neglected and overlooked because it was not the favorite food of the silkworm, the red mulberry tree is reclaiming its legacy in the landscapes of North America. It may not be the money tree of silk production like the white mulberry, but as we will discover, every part of the tree offers wealth of its own kind.[^5]
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 3 Morus Rubra 1818.jpeg"
 	   caption="Morus rubra 1818, Austrian National Library. Public domain">
-<param ve-image>
 
 ### Taxonomy, Genus, and Types of Mulberry
 
@@ -58,12 +44,31 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
 
 
 Morus trees bear long aggregate fruit, somewhat resembling a blackberry, which come in various colors—green, white, red, black—and are rich in antioxidants. But the most historically significant, valuable part of most mulberry trees has been their leaves. Like the trees themselves, the leaves of the mulberry vary greatly in form, with leaf texture and shape ranging from shiny to matte, lobed or not. There can be dozens of differently shaped leaves even on the same tree. On no other tree has the leaf been more valuable than the white mulberry. Characterized in one text as a "sociable and loyal" tree that is "used to being of service to others," it is the white mulberry whose leaves allow the silkworm to produce the best quality of silk.[^9]
+<ve-compare>
+  <param
+    src="https://commons.wikimedia.org/wiki/File:Handkerchief_(AM_1967.28-1).jpg"
+    caption="Zoomed-in IIIF image"
+    region="0.1,0.1,0.8,0.8" />
+  <param
+    src="https://commons.wikimedia.org/wiki/File:Shawl_(AM_2017.103.9-7).jpg"
+    caption="Comparison image" />
+</ve-compare>
 
 ### Sericulture: The Alchemy that Creates Raw Silk
 
 The larvae of a species of moth called Bombyx mori, more commonly known as the silkworm, produce silk. Over centuries of domestication, the once-wild silk moth Bombyx mandarina was bred into the familiar Bombyx mori, maintaining its preference for white mulberry leaves, while the white mulberry was bred to contain fewer tannins and more protein to promote silkworm growth.[^10] For the blind, flightless larvae, the leaves of the white mulberry are one of the only foods they will eat and what they are most partial to. Their cocoons, made from the secretions from two glands, harden into a long delicate fiber rich in protein.[^11] Measuring between 600 and 900 meters in length, it is this filament that the worms produce that becomes the luxurious material known as silk.  
+<param ve-video
+	   src="77ktNSPFbwQ">
 
-During the usual production process, sericulturists steam the cocoons to kill the larvae. This prevents the precious thread from breaking when the adolescent moth emerges, although sometimes twisting the filaments from several cocoons together is required.[^12] A more humane production method uses the filament left over after the moth has emerged from the cocoon, rejoining them with the filaments that have been broken through twisting. By sparing the silkworm, the silk this method produces becomes Ahimsa silk. The result in either case is a single strand of silk thread.[^13] This incredible substance traveled around the globe, and where silk went, so too did the silkworm Bombyx mori and the white mulberry.[^14]
+During the usual production process, sericulturists steam the cocoons to kill the larvae. This prevents the precious thread from breaking when the adolescent moth emerges, although sometimes twisting the filaments from several cocoons together is required.[^12] A more humane production method uses the filzament left over after the moth has emerged from the cocoon, rejoining them with the filaments that have been broken through twisting. By sparing the silkworm, the silk this method produces becomes Ahimsa silk. The result in either case is a single strand of silk thread.[^13] This incredible substance traveled around the globe, and where silk went, so too did the silkworm Bombyx mori and the white mulberry.[^14]
+<param ve-compare
+            src="wc:Shawl_(AM_2017.103.9-7).jpg"
+            caption="Swipe across images to compare regular silk (left) and Ahimsa/tussah silk (right).">
+<param ve-compare
+            src="wc:Handkerchief_(AM 1967.28-1).jpg"
+			region="pct:1,1,0.8,0.9">
+			
+
 
 ### Obsessed by Silk
 
@@ -71,7 +76,6 @@ Smooth and lustrous, silk has enchanted the wealthy all over the world for mille
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P9 Emperor Tiberius 1610–50.jpg"
 	   caption="Emperor Tiberius rejected silk as effeminate. Instead, his image here embodies masculinity by appearing in a suit of metal armour. Etching of the Emperor Tiberius on horseback by Matthäus Merian the Elder (1593-1650). Public domain The Metropolitan Museum of Art ">
-<param ve-image>
 
 Silk is sacred in many cultures.[^18]  As is the mulberry tree. In cosmologies, myths, and legends, there is an aura of reverence for the mulberry tree. In Hindu-Buddhist cosmology for example, the divine Kalpavriksha is thought to be a white mulberry.[^19] The Romans considered the black mulberry sacred to Minerva.[^20] Sicilians still celebrate the Feast of St Nicholas by cutting a branch from the black and keeping it home for a year.[^21]  
 <param ve-image
@@ -83,18 +87,18 @@ Fame is surely secured by myths, art, and song, and the mulberry plays a promine
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P11 PyramusThisbe-c 1510.jpg"
 	   caption="Pyramus and Thisbe by Hans Wechtlin c1510. Public domain">
-<param ve-image>
 
 Van Gogh painted a mulberry tree in 1889, one year before his death, in brushstrokes that pulsate with life, echoing perhaps his feverish state of mind during a stay at an asylum. More cheerful is the depiction in folklore where the mulberry tree inspires carousing songs, odes to its juicy fruit,[^22] and the tree around which children dance as they sing the popular nursery rhyme.[^23] 
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P12 Threemencarousing 1808.jpg"
 	   caption="Three men carousing beneath a mulberry tree. Letterpress after etching by Isaac Cruikshank 1808. Wellcome Collection Open Access on JSTOR">
-<param ve-image>
 
 ### The Beginnings of Silk
 
 We begin in 2700 BCE, with the invention of sericulture: the production of silk. Illustrations on ox bones from 1600 BCE show that early versions of the process included the cultivation of mulberry groves and silkworms, silk reeling and spinning, preparing the silk threads, and weaving the threads together, like sericulture practices today. [^24]
-
+<param ve-image
+	   src="wc:Heji_37986_Ganzhi_table.jpg"
+	   caption="Shang Dynasty ox bone inscription of the sexagenary cycle, dating several centuries after earliest ox bone depictions of sericulture. CC0, via Wikimedia Commons.">
 
 According to a popular legend, the Chinese Empress Xi Ling-Shi (西陵氏), also known as Leizu (嫘祖), first discovered silk while sitting under a white mulberry tree. As she drank her tea, a silkworm cocoon fell from the branches into her teacup and she found that the hot liquid had unwound the cocoon into soft, silky strings that were long and plentiful enough to be wrapped around her entire garden. Indeed, considering that a single cocoon may contain 1.5 km of silk, the legend does not exaggerate the wonders of the silkworm.[^25] Now celebrated as the silkworm goddess, it is said that Leizu also invented the silk loom and the art of sericulture.[^26]
 <param ve-image
@@ -124,18 +128,47 @@ Evidence of white mulberry cultivation in Khotan emerging from 150–350 CE migh
 According to another legend, the sixth century Byzantine Emperor Justinian I bribed monks to smuggle silkworm eggs and white mulberry seeds to Constantinople, which they did using hollow canes purportedly from Persia.[^34] Whether or not these stories are true, the secret of sericulture spread—and the mulberry trees themselves, first to the Byzantine Empire in the 500s, then to Spain in the 900s and to England in the 1600s.[^35] Sericulture slowly expanded westward, further spurred by industrialization and new, cheap silk production methods, with the black mulberry planted as sericulture’s companion. Eventually, the white mulberry followed, appreciated for both its sericultural importance and the versatility of its fruit.[^36]
 
 By the late 1400s, France—which had witnessed the prosperity silk had brought to Italy and Spain—established its own thriving silk industry with Lyon serving as the heart of French silk weaving, albeit with minimal in-country sericulture and thread production. It was due to Henri IV and his agronomist friend Olivier de Serres in the late 1500s that the first consequential planting of mulberries occurred. However, until the eighteenth century, the French silk industry remained reliant on Piedmontese silk threads—known as organzine—which were vastly superior to French alternatives in terms of uniformity, quality, and fabric production.[^37] At one point, in the mid 1500s, 30 percent of all silk imports to France were from Italy, which also accounted for 20 percent of imports to other European countries, at times even surpassing China.[^38] Because the exportation of silk fabric was such a significant portion of France’s economy, the French desired to produce their own organzine on par with the Italians.  
+<param ve-image
+	   src="wc:Cope_with_an_Orphrey_MET_DP-14397-001.jpg"
+	   caption="Cope with an orphrey, circa 15th century, made from wool, linen, and French and Italian silk. Metropolitan Museum of Art via Wikimedia Commons.">
+<param ve-image
+	   src="wc:Olivier_de_Serres.jpg"
+	   caption="Olivier de Serres (1539-1619), King Henri IV's close friend and agronomist who encouraged the planting of mulberries in the late 1500s. Via Wikimedia Commons.">
 
 In the 1740s, Philibert Orry, the General Controller of Finances, ordered another increase in cultivation of mulberry trees and opened spinning manufacturers in an attempt to eventually match the quality of Piedmont organzine. As this endeavor proved largely unsuccessful, the physicist Jean-Antoine Nollet was sent to Italy as an "intelligence agent" to learn the secrets of Piedmont silk thread production. Through the information Nollet gathered, the French concluded that it was the superior production methods of the raw silk itself that produced quality organzine, which led to the invention of an automated spinning machine by Jacques Vaucanson, the inspector of silk manufacturing. Several decades later, Joseph Marie Jacquard drew inspiration from Vaucanson’s machine and invented the Jacquard loom, revolutionizing French textiles and the silk weaving industry along with it.  
-
+<param ve-image
+	   src="wc:Textiles;_tapestry_weaving,_a_loom_in_elevation_(top),_and_i_Wellcome_V0024165.jpg"
+	   caption="Plans of Vaucanson's loom (invented 1745) engraved by R. Bénard after Radel, circa 1751-1767. Wellcome Collection via Wikimedia Commons.">
+<param ve-image
+	   src="wc:Neoclassical_furnishing_fabric_detail,_Les_quatres_parties_du_monde,_Lyon_France,_c._1785,_silk_lampas_-_Patricia_Harris_Gallery_of_Textiles_%26_Costume,_Royal_Ontario_Museum_-_DSC09411.JPG"
+	   caption="Silk lampas furnishing fabric woven in Lyon, France circa 1785. Produced during a period of technological innovation in French textile production and mechanized looms. Patricia Harris Gallery of Textiles & Costume at the Royal Ontario Museum, via Wikimedia Commons.">
+	   
 England, meanwhile, had a late start into the silk industry. By the time the French had perfected their woven silk fabrics in the fifteenth century, King Henry VI had banned silk imports, and small-scale efforts to cultivate silkworms proved unsuccessful due to the climate.[^39] Beginning in 1607, King James I attempted to match France’s success, eager to cement England as a rival powerhouse in the silk industry. However, England’s poor climate foiled such plans, and the only aspect of France’s silken success he managed to replicate was the planting of mulberry trees.[^40] Despite this failure at establishing sericulture, James I was determined not to be outcompeted by France. To this end, he required English landowners to plant mulberries and suggested that they raise silkworms themselves. While unsuccessful in-country, this culminated in several sericulture projects in the North American colonies, further motivated by the need to reduce England’s tobacco dependency through diversified crops.[^41] The first attempt at raising silkworms was in Jamestown in 1607, where there were many native red mulberries, not a favorite of silkworms. But the endeavor failed because the silkworms’ caretaker became ill which resulted in rats "[overrunning] the silk establishment and [eating] the worms."[^42]
+<param ve-image
+	   src="wc:Arrival_at_Jamestown_1607,_Image_from_page_102_of_Indian_history_for_young_folks_(1919).jpg"
+	   caption="Engraving of colonists arriving at the future site of Jamestown in 1607, circa 1919. New York Public Library, via Wikimedia Commons.">
 
-In 1609, the colonists began revamping sericulture efforts with improved organization and presumably healthier caretakers, finding reasonable success despite their using the native red mulberries.[^43] Starting in 1620, manuals and handbooks with advice on how to rear silkworms began to appear. For instance, in his Systema agriculturae, John Worlidge recommended that growers hang lavender and sprigs of rosemary between the shelves where the silkworms were housed to keep them warm.[^44] In a 1622 letter to the Earl of South-Hampton, John Bonoeil, a sericulture advisor to James I, suggested growers "caste a little Vinegar" or "sweet smelling herbes" on coals in the oven or fireplace to "comfort the Wormes."[^45] When it came to the silkworm, no detail was too small. The worms were mated on the backside of old velvet or other "stuffe"—never linen, paper, or wool—lest the eggs bond too tightly to the fabric.[^46]
 
-To kill the worms within their cocoons, the best practice was using cauldrons, half full of hot water, with a wooden cover bored full of holes stationed three or four fingers above the water; spread on top of the cover would be a thin layer of "Darnix," where the silk cocoons were to be frequently stirred.[^47] By 1639, likely through experimentation, Virginian sericulturists had become aware of the silkworms’ proclivity for white mulberries—Sir Francis Wyatt wrote instructions to sericulturists ensuring that these were the sole variety planted.[^48] And, as the colonists realized that the highest quality silk came from white mulberry leaves, they too planted acres of white mulberry.[^49] Virginian sericulture, as elsewhere in the world, became a more precise science. The fascination to understand the alchemy of silk-making continues. Modern research has shown that although silkworm larvae will eat other leaves, such as lettuce and fig leaves, they are most attracted to unique essential oils in mulberry leaves.[^50]
+In 1609, the colonists began revamping sericulture efforts with improved organization and presumably healthier caretakers, finding reasonable success despite their using the native red mulberries.[^43] Starting in 1620, manuals and handbooks with advice on how to rear silkworms began to appear. For instance, in his *Systema agriculturae*, John Worlidge recommended that growers hang lavender and sprigs of rosemary between the shelves where the silkworms were housed to keep them warm.[^44] In a 1622 letter to the Earl of South-Hampton, John Bonoeil, a sericulture advisor to James I, suggested growers "caste a little Vinegar" or "sweet smelling herbes" on coals in the oven or fireplace to "comfort the Wormes."[^45] When it came to the silkworm, no detail was too small. The worms were mated on the backside of old velvet or other "stuffe"—never linen, paper, or wool—lest the eggs bond too tightly to the fabric.[^46]
+<param ve-iframe
+	   src="https://archive.org/details/bim_early-english-books-1641-1700_systema-agricultur-the_worlidge-john_1675/page/190">
+
+
+To kill the worms within their cocoons, the best practice was using cauldrons, half full of hot water, with a wooden cover bored full of holes stationed three or four fingers above the water; spread on top of the cover would be a thin layer of "[Darnix](https://en.wikipedia.org/wiki/Dornix)," where the silk cocoons were to be frequently stirred.[^47] By 1639, likely through experimentation, Virginian sericulturists had become aware of the silkworms’ proclivity for white mulberries—Sir Francis Wyatt wrote instructions to sericulturists ensuring that these were the sole variety planted.[^48] And, as the colonists realized that the highest quality silk came from white mulberry leaves, they too planted acres of white mulberry.[^49] Virginian sericulture, as elsewhere in the world, became a more precise science. The fascination to understand the alchemy of silk-making continues. Modern research has shown that although silkworm larvae will eat other leaves, such as lettuce and fig leaves, they are most attracted to unique essential oils in mulberry leaves.[^50]
+<param ve-image
+	   src="wc:Engine_used_to_wind_silk_off_the_coils,_soon_after_the_discovery_of_silkworms_LCCN2006687108.jpg"
+	   caption="An engraving of a preliminary Virginian engine being used to wind silk out of cocoons, circa 1650. Via Wikimedia Commons.">
 
 Apart from these ventures in Virginia, successful silkworm-rearing attempts in the United States were few and far between.[^51] Suboptimal climate, disease, a focus on other agricultural pursuits, and often a general lack of knowledge meant that few of these pursuits ever took hold, with exceptions in Virginia, Georgia, Kentucky, and Pennsylvania (1725).[^52] Virginia’s moderately successful venture from 1609 to 1676 eventually faded away too, lost to tobacco and rebellion.[^53] Though faded, silk production would be given another chance nearly two hundred years later in Virginia’s 1830s mulberry craze.[^54]
 
 Since a silkworm consumes about sixty grams of white mulberry leaves during its six-week life cycle and only produces 0.2 grams of silk, one hectare of white mulberry trees would likely produce around forty kilograms of silk.[^55] Having a vast stock of mulberry trees to provide food for the silkworms was essential to firmly reestablish sericulture in Virginia. To this end, new acres of white mulberry were planted across Virginia to support the hopeful, renewed industry—the red mulberry, once again, was considered of no use. As we will learn next, the white mulberry spread far beyond Virginia—in fact, the highly invasive species spread throughout the country. Today, the tree can be found in every continent but the poles. As garden historian Bill Laws put it, "The silken mulberry had crossed the world." 
+
+<iframe 
+		src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' 
+		width='100%' 
+		height='650' 
+		webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
+</iframe>
 
 ### The Love Affair Turns Sour
 

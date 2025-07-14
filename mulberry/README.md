@@ -116,7 +116,22 @@ Evidence of white mulberry cultivation in Khotan emerging from 150–350 CE migh
 	   src="wc:Indian_deity_attributed_to_Vi%C5%9Ba_%C4%AArasang%C3%A4.jpg"
 	   caption="Khotanese votive panel portraying a possible three-headed God of Silk or Patron of Weaving, circa 6th to 8th century. Publicly available via Wikimedia Commons.">
 
-According to another legend, the sixth century Byzantine Emperor Justinian I bribed monks to smuggle silkworm eggs and white mulberry seeds to Constantinople, which they did using hollow canes purportedly from Persia.[^34] Whether or not these stories are true, the secret of sericulture spread—and the mulberry trees themselves, first to the Byzantine Empire in the 500s, then to Spain in the 900s and to England in the 1600s.[^35] Sericulture slowly expanded westward, further spurred by industrialization and new, cheap silk production methods, with the black mulberry planted as sericulture’s companion. Eventually, the white mulberry followed, appreciated for both its sericultural importance and the versatility of its fruit.[^36]
+According to another legend, the sixth century Byzantine Emperor Justinian I bribed Nestorian monks to smuggle silkworm eggs and white mulberry seeds to Constantinople, which they did using hollow canes purportedly from Persia.[^34] Whether or not these stories are true, the secret of sericulture spread—and the mulberry trees themselves, first to the Byzantine Empire in the 500s, then to Spain in the 900s and to England in the 1600s.[^35] Sericulture slowly expanded westward, further spurred by industrialization and new, cheap silk production methods, with the black mulberry planted as sericulture’s companion. Eventually, the white mulberry followed, appreciated for both its sericultural importance and the versatility of its fruit.[^36]
+<param ve-image
+src="wc:Emperor_Justinian_Receiving_the_First_Imported_Silkworm_Eggs_from_Nestorian_Monks,_Plate_2_from_%22The_Introduction_of_the_Silkworm%22_-Vermis_Sericus-_MET_DP841101.jpg"
+	   caption="Plate depicting Justinian I recieving silkworm eggs from Nestorian monks, circa 1595. Metropolitan Museum of Art via Wikimedia Commons.">
+<param ve-image
+src="wc:The_Incubation_of_the_Silkworm_Eggs,_Plate_3_from_%22The_Introduction_of_the_Silkworm%22_-Vermis_Sericus-_MET_DP841102.jpg"
+	   caption="Third plate from the same 1595 series *Vermis Sericus*: The Introduction of the Silkworm. Depicts the incubation of the eggs.">
+<param ve-image
+src="wc:The_Silkworm_Eggs_Spread_Out_On_Shelves,_Plate_4_from_%22The_Introduction_of_the_Silkworm%22_-Vermis_Sericus-_MET_DP841100.jpg"
+	   caption="The fourth plate, depicting the eggs spread on shelves.">
+<param ve-image
+src="wc:The_Gathering_of_Mulberry_Leaves_and_the_Feeding_of_the_Silkworms,_Plate_5_from_%22The_Introduction_of_the_Silkworm%22_-Vermis_Sericus-_MET_DP841099.jpg"
+	   caption="The fifth plate, depicting gathering of mulberry leaves and feeding of the silkworms.">
+<param ve-image
+src="wc:Emperor_Justinian_Receiving_the_First_Imported_Silkworm_Eggs_from_Nestorian_Monks,_Plate_2_from_%22The_Introduction_of_the_Silkworm%22_-Vermis_Sericus-_MET_DP841101.jpg"
+	   caption="The sixth plate, depicting the reeling of silk.">
 
 By the late 1400s, France—which had witnessed the prosperity silk had brought to Italy and Spain—established its own thriving silk industry with Lyon serving as the heart of French silk weaving, albeit with minimal in-country sericulture and thread production. It was due to Henri IV and his agronomist friend Olivier de Serres in the late 1500s that the first consequential planting of mulberries occurred. However, until the eighteenth century, the French silk industry remained reliant on Piedmontese silk threads—known as organzine—which were vastly superior to French alternatives in terms of uniformity, quality, and fabric production.[^37] At one point, in the mid 1500s, 30 percent of all silk imports to France were from Italy, which also accounted for 20 percent of imports to other European countries, at times even surpassing China.[^38] Because the exportation of silk fabric was such a significant portion of France’s economy, the French desired to produce their own organzine on par with the Italians.  
 <param ve-image

@@ -130,7 +130,7 @@ src="wc:The_Silkworm_Eggs_Spread_Out_On_Shelves,_Plate_4_from_%22The_Introductio
 src="wc:The_Gathering_of_Mulberry_Leaves_and_the_Feeding_of_the_Silkworms,_Plate_5_from_%22The_Introduction_of_the_Silkworm%22_-Vermis_Sericus-_MET_DP841099.jpg"
 	   caption="The fifth plate, depicting gathering of mulberry leaves and feeding of the silkworms.">
 <param ve-image
-src="wc:Emperor_Justinian_Receiving_the_First_Imported_Silkworm_Eggs_from_Nestorian_Monks,_Plate_2_from_%22The_Introduction_of_the_Silkworm%22_-Vermis_Sericus-_MET_DP841101.jpg"
+src="wc:The_Reeling_of_Silk,_Plate_6_from_%22The_Introduction_of_the_Silkworm%22_-Vermis_Sericus-_MET_DP841098.jpg"
 	   caption="The sixth plate, depicting the reeling of silk.">
 
 By the late 1400s, France—which had witnessed the prosperity silk had brought to Italy and Spain—established its own thriving silk industry with Lyon serving as the heart of French silk weaving, albeit with minimal in-country sericulture and thread production. It was due to Henri IV and his agronomist friend Olivier de Serres in the late 1500s that the first consequential planting of mulberries occurred. However, until the eighteenth century, the French silk industry remained reliant on Piedmontese silk threads—known as organzine—which were vastly superior to French alternatives in terms of uniformity, quality, and fabric production.[^37] At one point, in the mid 1500s, 30 percent of all silk imports to France were from Italy, which also accounted for 20 percent of imports to other European countries, at times even surpassing China.[^38] Because the exportation of silk fabric was such a significant portion of France’s economy, the French desired to produce their own organzine on par with the Italians.  

@@ -44,6 +44,9 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
 
 
 Morus trees bear long aggregate fruit, somewhat resembling a blackberry, which come in various colors—green, white, red, black—and are rich in antioxidants. But the most historically significant, valuable part of most mulberry trees has been their leaves. Like the trees themselves, the leaves of the mulberry vary greatly in form, with leaf texture and shape ranging from shiny to matte, lobed or not. There can be dozens of differently shaped leaves even on the same tree. On no other tree has the leaf been more valuable than the white mulberry. Characterized in one text as a "sociable and loyal" tree that is "used to being of service to others," it is the white mulberry whose leaves allow the silkworm to produce the best quality of silk.[^9]
+<param ve-image
+	   src:"wc:Morus_alba-leaves.jpg"
+	   caption:"A variety of forms *Morus alba* leaves can take. Publicly available via Wikimedia Commons.">
 
 ### Sericulture: The Alchemy that Creates Raw Silk
 
@@ -175,17 +178,14 @@ Present in the landscapes of our childhoods and imaginations, how was it that th
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 26 image 1 Growth and Manufacture of Silk 1828.jpeg"
 	   caption="Representation of the different ages of the silk worm. Illustration in The growth and manufacture of silk 1828 Secretary of the Treasury. Courtesy of Oak Springs Library">
-<param ve-image>
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P26 Library of Congress, Prints and Photographs Division.tif"
 	   caption="Group of workers at the Hand Silk Mill. In 1889, George Wheeler of Baltimore and C.W. Wilder of New York built a silk throwing factory in Fredericksburg, Virginia. Credit National Child Labor Committee collection, Library of Congress, Prints and Photographs Division.">
-<param ve-image>
 
 The hype spread from state to state: New Jersey, Pennsylvania, Delaware, Maryland, and Virginia were early adopters,[^57] and Vermont, Massachusetts, and Connecticut followed suit. Mulberry mania spread south to South Carolina.[^58]  Advertisements in newspapers and magazines promised buyers a ten-fold increase in trees and, therefore, in profits over just one season.[^59]  Millions of hastily raised white mulberry trees were sold, inflating a speculative bubble that burst just as the entire nation’s economy collapsed in the late 1830s.[^60] It seems true to say that the role of the leaves of the white mulberry in the failed economy of silk production tainted the tree itself.[^61]  
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P27 Rearing silkworms Washington 1883.png"
 	   caption="A page from a manual on rearing silkworms issued by the U.S. Department of Agriculture in 1903. Open Access Biodiversity Heritage Library">
-<param ve-image>
 
 >Nor is this tree less beautiful to the eye than the fairest elm, and is very proper for walks and avenues.[^62]
 
@@ -198,7 +198,6 @@ At Lewis Ginter Botanical Garden near Richmond, Virginia, a 100-year-old red mul
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P29 Red Mulberry at Lewis Ginter Garden.jpg"
 	   caption="Children climbing the 100 year old Morus rubra at Lewis Ginter Botanical Gardens, Virginia. Credit: Robert Llwellyn">
-<param ve-image>
 
 During his travels around North America in the in the eighteenth century, the Swedish naturalist Pehr Kalm described the view of red mulberries on "fields, hills and near houses."[^66] The red mulberry was not only common in these landscapes of home, their timber was used to make homes. Red mulberry wood is weather- and insect-resistant and makes for fine cabinets and musical instruments.[^67] Its bark is suitable for "good and rough bast ropes."[^68] And it caters to birds, insects, and domestic animals. Species of birds that feed on the tree’s fruit include the yellow-billed cuckoo, kingbird, tree swallow, thrush, and warbler.[^69] In the southern states, the fruit of the red mulberry was good for fattening hogs and feeding poultry.[^70] Hardy and easy to grow, the red mulberry can be coppiced and pruned to make excellent hedges "keeping children in and animals out."[^71]  
 <param ve-image
@@ -209,10 +208,9 @@ For centuries, people in different parts of the world have used mulberry trees f
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 31 image 1 Krochmal 1954.png"
 	   caption="An orchard of 150 year old mulberry trees (Morus alba L) near the village of Basilica, Macedonia.Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR">
-				<param ve-image
+<param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 31 Krochmal 1954 The Vanishing White Mulberry.png"
 	   caption="A young woman in the village of Basilica, Macedonia holds a home-spun silk dress. Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR">
-<param ve-image>
 	
 Alongside the pruning, grafting, altering, and shaping to suit human needs, a different quality of relationship with the red mulberry co-evolved with Native American peoples. In his travelogue recounting his journeys through North American landscapes in the eighteenth century, Pehr Kalms wrote of the fruit bread he ate with the Iroquois peoples: it was "just like the puddings which our women pack full of raisins."[^76] The tree’s berries provided fruit, preserves, such as jams and syrups, as well as mulberry wine. 
 <param ve-video
@@ -222,7 +220,6 @@ Plant knowledge extended to the medicinal properties of every part of the red mu
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 33 Morus rubra fruit iNaturalist misspt 2018 Massachusetts.jpg"
 	   caption="Fruit of a red mulberry tree in Massachusetts. Credit: misspt 2018 on iNaturalist.">
-<param ve-image>
 			
 Observations recorded by Hernando de Soto in 1539 during his travels through Florida and the southeastern states include uses of the red mulberry by tribal communities.[^80] The Rappahannock treated ringworm by rubbing the sap onto affected areas. Drinking the liquor made by steeping its bark was a Cherokee remedy for constipation. In addition to food and medicine, the red mulberry also provided fiber and pigments for dyeing cloth. The Choctaws of northwestern Florida made cloth from its inner bark: Putting the bark in hot water and mixing it with ashes, the threads were woven into a coarse, hemp-like fabric.[^81] 
 <param ve-video
@@ -232,13 +229,11 @@ In 1979, the "alley-cat nature" of the white mulberry recommended the adaptabili
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 35 IUCN distribution map of morus rubra.jpg"
 	   caption="Map showing the distribution of red mulberry in North America. Credit IUCN.">
-<param ve-image>
 
 The red mulberry has not dwindled to the same extent in the United States.[^86] Nevertheless, in Maine and New Hampshire, the species has disappeared.[^87] In Vermont and Massachusetts, it is considered "extremely rare."[^88] While the future of the species is unclear, the place of the red mulberry is embedded in the cultural heritage along the length and breadth of the northeastern seaboard, as a source of food and medicine, cloth and wood, for humans, our domestic animals, birds and insects. 
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 36 wikimedia The_tree_bookjpg.jpg"
 	   caption="Photograph in the book A popular guide to knowledge of the trees of North America and to their uses and cultivation by Julia Ellen Rogers. Creative Commons on Wikimedia.">
-<param ve-image>
 
 In the landscapes of past and present,the red mulberry inhabits a deep history that is particularly North American. The centenarian tree at Lewis Ginter Botanical Garden attracts generations of children and adults every season, whether to savor its juicy berries, climb its branches, or sit in its shade when it is in full and generous leaf. While this beloved red mulberry is firmly part of visitors’ memories, blogs, texts and photographs, there is another tree whose chronicle stretches further back in time, to the early days of the nation: the Yorktown-Washington tree, a mulberry tree under which it is said that George Washington slept "undisturbed, unvisited, unphotographed."[^89] 
 <param ve-image

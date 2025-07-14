@@ -146,56 +146,45 @@ src="wc:The_Gathering_of_Mulberry_Leaves_and_the_Feeding_of_the_Silkworms,_Plate
 <param ve-image
 src="wc:The_Reeling_of_Silk,_Plate_6_from_%22The_Introduction_of_the_Silkworm%22_-Vermis_Sericus-_MET_DP841098.jpg"
 	   caption="The sixth plate, depicting the reeling of silk.">
-	   
-TESTING HERE
+
+By the late 1400s, France—which had witnessed the prosperity silk had brought to Italy and Spain—established its own thriving silk industry with Lyon serving as the heart of French silk weaving, albeit with minimal in-country sericulture and thread production. It was due to Henri IV and his agronomist friend Olivier de Serres in the late 1500s that the first consequential planting of mulberries occurred. However, until the eighteenth century, the French silk industry remained reliant on Piedmontese silk threads—known as organzine—which were vastly superior to French alternatives in terms of uniformity, quality, and fabric production.[^37] At one point, in the mid 1500s, 30 percent of all silk imports to France were from Italy, which also accounted for 20 percent of imports to other European countries, at times even surpassing China.[^38] Because the exportation of silk fabric was such a significant portion of France’s economy, the French desired to produce their own organzine on par with the Italians.  
 <param ve-iframe
             src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
 
-
-By the late 1400s, France—which had witnessed the prosperity silk had brought to Italy and Spain—established its own thriving silk industry with Lyon serving as the heart of French silk weaving, albeit with minimal in-country sericulture and thread production. It was due to Henri IV and his agronomist friend Olivier de Serres in the late 1500s that the first consequential planting of mulberries occurred. However, until the eighteenth century, the French silk industry remained reliant on Piedmontese silk threads—known as organzine—which were vastly superior to French alternatives in terms of uniformity, quality, and fabric production.[^37] At one point, in the mid 1500s, 30 percent of all silk imports to France were from Italy, which also accounted for 20 percent of imports to other European countries, at times even surpassing China.[^38] Because the exportation of silk fabric was such a significant portion of France’s economy, the French desired to produce their own organzine on par with the Italians.  
-<param ve-image
-	   src="wc:Cope_with_an_Orphrey_MET_DP-14397-001.jpg"
-	   caption="Cope with an orphrey, circa 15th century, made from wool, linen, and French and Italian silk. Metropolitan Museum of Art via Wikimedia Commons.">
-<param ve-image
-	   src="wc:Olivier_de_Serres.jpg"
-	   caption="Olivier de Serres (1539-1619), King Henri IV's close friend and agronomist who encouraged the planting of mulberries in the late 1500s. Via Wikimedia Commons.">
-
 In the 1740s, Philibert Orry, the General Controller of Finances, ordered another increase in cultivation of mulberry trees and opened spinning manufacturers in an attempt to eventually match the quality of Piedmont organzine. As this endeavor proved largely unsuccessful, the physicist Jean-Antoine Nollet was sent to Italy as an "intelligence agent" to learn the secrets of Piedmont silk thread production. Through the information Nollet gathered, the French concluded that it was the superior production methods of the raw silk itself that produced quality organzine, which led to the invention of an automated spinning machine by Jacques Vaucanson, the inspector of silk manufacturing. Several decades later, Joseph Marie Jacquard drew inspiration from Vaucanson’s machine and invented the Jacquard loom, revolutionizing French textiles and the silk weaving industry along with it.  
-<param ve-image
-	   src="wc:Textiles;_tapestry_weaving,_a_loom_in_elevation_(top),_and_i_Wellcome_V0024165.jpg"
-	   caption="Plans of Vaucanson's loom (invented 1745) engraved by R. Bénard after Radel, circa 1751-1767. Wellcome Collection via Wikimedia Commons.">
+<param ve-iframe
+            src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=6&width=100%25&height=650">
 <param ve-image
 	   src="wc:Neoclassical_furnishing_fabric_detail,_Les_quatres_parties_du_monde,_Lyon_France,_c._1785,_silk_lampas_-_Patricia_Harris_Gallery_of_Textiles_%26_Costume,_Royal_Ontario_Museum_-_DSC09411.JPG"
 	   caption="Silk lampas furnishing fabric woven in Lyon, France circa 1785. Produced during a period of technological innovation in French textile production and mechanized looms. Patricia Harris Gallery of Textiles & Costume at the Royal Ontario Museum, via Wikimedia Commons.">
 	   
 England, meanwhile, had a late start into the silk industry. By the time the French had perfected their woven silk fabrics in the fifteenth century, King Henry VI had banned silk imports, and small-scale efforts to cultivate silkworms proved unsuccessful due to the climate.[^39] Beginning in 1607, King James I attempted to match France’s success, eager to cement England as a rival powerhouse in the silk industry. However, England’s poor climate foiled such plans, and the only aspect of France’s silken success he managed to replicate was the planting of mulberry trees.[^40] Despite this failure at establishing sericulture, James I was determined not to be outcompeted by France. To this end, he required English landowners to plant mulberries and suggested that they raise silkworms themselves. While unsuccessful in-country, this culminated in several sericulture projects in the North American colonies, further motivated by the need to reduce England’s tobacco dependency through diversified crops.[^41] The first attempt at raising silkworms was in Jamestown in 1607, where there were many native red mulberries, not a favorite of silkworms. But the endeavor failed because the silkworms’ caretaker became ill which resulted in rats "[overrunning] the silk establishment and [eating] the worms."[^42]
-<param ve-image
-	   src="wc:Arrival_at_Jamestown_1607,_Image_from_page_102_of_Indian_history_for_young_folks_(1919).jpg"
-	   caption="Engraving of colonists arriving at the future site of Jamestown in 1607, circa 1919. New York Public Library, via Wikimedia Commons.">
-
+<param ve-iframe
+            src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=3&width=100%25&height=650">
 
 In 1609, the colonists began revamping sericulture efforts with improved organization and presumably healthier caretakers, finding reasonable success despite their using the native red mulberries.[^43] Starting in 1620, manuals and handbooks with advice on how to rear silkworms began to appear. For instance, in his *Systema agriculturae*, John Worlidge recommended that growers hang lavender and sprigs of rosemary between the shelves where the silkworms were housed to keep them warm.[^44] In a 1622 letter to the Earl of South-Hampton, John Bonoeil, a sericulture advisor to James I, suggested growers "caste a little Vinegar" or "sweet smelling herbes" on coals in the oven or fireplace to "comfort the Wormes."[^45] When it came to the silkworm, no detail was too small. The worms were mated on the backside of old velvet or other "stuffe"—never linen, paper, or wool—lest the eggs bond too tightly to the fabric.[^46]
 <param ve-iframe
+            src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=5&width=100%25&height=650">
+<param ve-iframe
 	   src="https://archive.org/details/bim_early-english-books-1641-1700_systema-agricultur-the_worlidge-john_1675/page/190">
 
-
 To kill the worms within their cocoons, the best practice was using cauldrons, half full of hot water, with a wooden cover bored full of holes stationed three or four fingers above the water; spread on top of the cover would be a thin layer of "[Darnix](https://en.wikipedia.org/wiki/Dornix)," where the silk cocoons were to be frequently stirred.[^47] By 1639, likely through experimentation, Virginian sericulturists had become aware of the silkworms’ proclivity for white mulberries—Sir Francis Wyatt wrote instructions to sericulturists ensuring that these were the sole variety planted.[^48] And, as the colonists realized that the highest quality silk came from white mulberry leaves, they too planted acres of white mulberry.[^49] Virginian sericulture, as elsewhere in the world, became a more precise science. The fascination to understand the alchemy of silk-making continues. Modern research has shown that although silkworm larvae will eat other leaves, such as lettuce and fig leaves, they are most attracted to unique essential oils in mulberry leaves.[^50]
+<param ve-iframe
+            src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=5&width=100%25&height=650">
 <param ve-image
 	   src="wc:Engine_used_to_wind_silk_off_the_coils,_soon_after_the_discovery_of_silkworms_LCCN2006687108.jpg"
 	   caption="An engraving of a preliminary Virginian engine being used to wind silk out of cocoons, circa 1650. Via Wikimedia Commons.">
 
 Apart from these ventures in Virginia, successful silkworm-rearing attempts in the United States were few and far between.[^51] Suboptimal climate, disease, a focus on other agricultural pursuits, and often a general lack of knowledge meant that few of these pursuits ever took hold, with exceptions in Virginia, Georgia, Kentucky, and Pennsylvania (1725).[^52] Virginia’s moderately successful venture from 1609 to 1676 eventually faded away too, lost to tobacco and rebellion.[^53] Though faded, silk production would be given another chance nearly two hundred years later in Virginia’s 1830s mulberry craze.[^54]
-<param ve-image
-	   src="wc:Use_Brainerd_%26_Armstrong%27s_spool_silk._Aw!_Aw!_Miss_I_understand_all_the_ladies_prefer_this_silk._(front).jpg"
-	   caption="Printed advertisement for Brainerd & Armstrong's spool silk: "Aw! Aw! Miss I understand all the Ladies prefer this Silk." Circa 1870. Boston Public Library via Wikimedia Commons.">
+<param ve-iframe
+            src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=7&width=100%25&height=650">
 <param ve-image
 	   src="wc:Silk_doublers_at_work.jpg"
 	   caption="Silk doublers twisting silk from bobbins into a single thread circa 1843. Via Wikimedia Commons.">
 
 Since a silkworm consumes about sixty grams of white mulberry leaves during its six-week life cycle and only produces 0.2 grams of silk, one hectare of white mulberry trees would likely produce around forty kilograms of silk.[^55] Having a vast stock of mulberry trees to provide food for the silkworms was essential to firmly reestablish sericulture in Virginia. To this end, new acres of white mulberry were planted across Virginia to support the hopeful, renewed industry—the red mulberry, once again, was considered of no use. As we will learn next, the white mulberry spread far beyond Virginia—in fact, the highly invasive species spread throughout the country. Today, the tree can be found in every continent but the poles. As garden historian Bill Laws put it, "The silken mulberry had crossed the world." 
-<param ve-image
-	   src="wc:At_Totopotomay Creek,_Va._LCCN2004660390.jpg"
-	   caption="Pencil sketch of mulberry trees and locusts on tan paper, entitled At Totopotomay Creek by Alfred Waud, circa 1864. Library of Congress via Wikimedia Commons.">
+<param ve-iframe
+            src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=8&width=100%25&height=650">
 
 ### The Love Affair Turns Sour
 

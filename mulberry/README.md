@@ -44,15 +44,6 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
 
 
 Morus trees bear long aggregate fruit, somewhat resembling a blackberry, which come in various colors—green, white, red, black—and are rich in antioxidants. But the most historically significant, valuable part of most mulberry trees has been their leaves. Like the trees themselves, the leaves of the mulberry vary greatly in form, with leaf texture and shape ranging from shiny to matte, lobed or not. There can be dozens of differently shaped leaves even on the same tree. On no other tree has the leaf been more valuable than the white mulberry. Characterized in one text as a "sociable and loyal" tree that is "used to being of service to others," it is the white mulberry whose leaves allow the silkworm to produce the best quality of silk.[^9]
-<ve-compare>
-  <param
-    src="https://commons.wikimedia.org/wiki/File:Handkerchief_(AM_1967.28-1).jpg"
-    caption="Zoomed-in IIIF image"
-    region="0.1,0.1,0.8,0.8" />
-  <param
-    src="https://commons.wikimedia.org/wiki/File:Shawl_(AM_2017.103.9-7).jpg"
-    caption="Comparison image" />
-</ve-compare>
 
 ### Sericulture: The Alchemy that Creates Raw Silk
 
@@ -62,14 +53,11 @@ The larvae of a species of moth called Bombyx mori, more commonly known as the s
 
 During the usual production process, sericulturists steam the cocoons to kill the larvae. This prevents the precious thread from breaking when the adolescent moth emerges, although sometimes twisting the filaments from several cocoons together is required.[^12] A more humane production method uses the filzament left over after the moth has emerged from the cocoon, rejoining them with the filaments that have been broken through twisting. By sparing the silkworm, the silk this method produces becomes Ahimsa silk. The result in either case is a single strand of silk thread.[^13] This incredible substance traveled around the globe, and where silk went, so too did the silkworm Bombyx mori and the white mulberry.[^14]
 <param ve-compare
-            src="wc:Shawl_(AM_2017.103.9-7).jpg"
+            src="wc:Shawl_(AM 2017.103.9-8).jpg"
             caption="Swipe across images to compare regular silk (left) and Ahimsa/tussah silk (right).">
 <param ve-compare
-            src="wc:Handkerchief_(AM 1967.28-1).jpg"
-			region="pct:1,1,0.8,0.9">
-			
-
-
+            src="wc:Handkerchief_(AM 1996.72.7-3).jpg">
+		
 ### Obsessed by Silk
 
 Smooth and lustrous, silk has enchanted the wealthy all over the world for millennia. Imagine the wonder and delight of discovering the delicate threads that shone like silver. It’s no surprise that the silkworm itself was revered as an extraordinary organism with its ability to convert white mulberry leaves into precious filaments. Writing about the mysteries of animal husbandry in 1668, John Worlidge, an English agriculturalist, mused on the sublime powers of "This, though but a Worm, yet glorious Creature."[^15] Cleopatra was enamored with the billowing silk sails of her pleasure boat.[^16] Possibly because it was so ephemeral and delicate, in ancient Rome silk was considered too effeminate for men to wear. In the reign of the second Roman Emperor, Tiberius (42 BCE—37 CE), a law was passed "that no man should dishonor himself by wearing silken garments."[^17]
@@ -160,8 +148,16 @@ To kill the worms within their cocoons, the best practice was using cauldrons, h
 	   caption="An engraving of a preliminary Virginian engine being used to wind silk out of cocoons, circa 1650. Via Wikimedia Commons.">
 
 Apart from these ventures in Virginia, successful silkworm-rearing attempts in the United States were few and far between.[^51] Suboptimal climate, disease, a focus on other agricultural pursuits, and often a general lack of knowledge meant that few of these pursuits ever took hold, with exceptions in Virginia, Georgia, Kentucky, and Pennsylvania (1725).[^52] Virginia’s moderately successful venture from 1609 to 1676 eventually faded away too, lost to tobacco and rebellion.[^53] Though faded, silk production would be given another chance nearly two hundred years later in Virginia’s 1830s mulberry craze.[^54]
+<param ve-image
+	   src="wc:Use_Brainerd_%26_Armstrong%27s_spool_silk._Aw!_Aw!_Miss_I_understand_all_the_ladies_prefer_this_silk._(front).jpg"
+	   caption="Printed advertisement for Brainerd & Armstrong's spool silk: "Aw! Aw! Miss I understand all the Ladies prefer this Silk." Circa 1870. Boston Public Library via Wikimedia Commons.">
 
 Since a silkworm consumes about sixty grams of white mulberry leaves during its six-week life cycle and only produces 0.2 grams of silk, one hectare of white mulberry trees would likely produce around forty kilograms of silk.[^55] Having a vast stock of mulberry trees to provide food for the silkworms was essential to firmly reestablish sericulture in Virginia. To this end, new acres of white mulberry were planted across Virginia to support the hopeful, renewed industry—the red mulberry, once again, was considered of no use. As we will learn next, the white mulberry spread far beyond Virginia—in fact, the highly invasive species spread throughout the country. Today, the tree can be found in every continent but the poles. As garden historian Bill Laws put it, "The silken mulberry had crossed the world." 
+<param ve-image
+	   src="wc:At_Totopotomay Creek,_Va._LCCN2004660390.jpg"
+	   caption="Pencil sketch of mulberry trees and locusts on tan paper, entitled At Totopotomay Creek by Alfred Waud, circa 1864. Library of Congress via Wikimedia Commons.">
+
+### Timeline
 
 <iframe 
 		src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' 

@@ -101,7 +101,6 @@ The first concrete evidence of sericulture was discovered in Shandong and Huzhou
 <param ve-image
 	   src="wc:Neolithic_Bone_Needles_(9929219405).jpg"
 	   caption="Neolithic-age bone needles found in Shanxi, China, which is believed to be some of the earliest evidence of sericulture ever found. Gary Todd from Xinzheng, China, CC0, via Wikimedia Commons.">
-	   
 <param ve-image
 	   src="wc:pikaapocket/plant-humanities/main/mulberry/P15 Gathering Mulberry.jpeg"
 	   caption="Engraving of silk manufacture in China, gathering mulberry leaves. Wellcome Collection, United Kingdom - CC BY.">

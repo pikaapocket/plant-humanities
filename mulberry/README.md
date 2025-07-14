@@ -151,6 +151,9 @@ Apart from these ventures in Virginia, successful silkworm-rearing attempts in t
 <param ve-image
 	   src="wc:Use_Brainerd_%26_Armstrong%27s_spool_silk._Aw!_Aw!_Miss_I_understand_all_the_ladies_prefer_this_silk._(front).jpg"
 	   caption="Printed advertisement for Brainerd & Armstrong's spool silk: "Aw! Aw! Miss I understand all the Ladies prefer this Silk." Circa 1870. Boston Public Library via Wikimedia Commons.">
+<param ve-image
+	   src="wc:Silk_doublers_at_work.jpg"
+	   caption="Silk doublers twisting silk from bobbins into a single thread circa 1843. Via Wikimedia Commons.">
 
 Since a silkworm consumes about sixty grams of white mulberry leaves during its six-week life cycle and only produces 0.2 grams of silk, one hectare of white mulberry trees would likely produce around forty kilograms of silk.[^55] Having a vast stock of mulberry trees to provide food for the silkworms was essential to firmly reestablish sericulture in Virginia. To this end, new acres of white mulberry were planted across Virginia to support the hopeful, renewed industry—the red mulberry, once again, was considered of no use. As we will learn next, the white mulberry spread far beyond Virginia—in fact, the highly invasive species spread throughout the country. Today, the tree can be found in every continent but the poles. As garden historian Bill Laws put it, "The silken mulberry had crossed the world." 
 <param ve-image

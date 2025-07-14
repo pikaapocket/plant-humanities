@@ -45,11 +45,14 @@ The story of the red mulberry is a less glamorous one than that of the white mul
 
 The mulberry genus Morus is part of the family Moraceae, which includes mulberries and figs. Even within mulberry species, morphology differs greatly, especially with the white mulberry. It is unclear how many mulberry species listed in the genus are distinct, with estimates ranging from eight to seventeen.[^6] However, the three main types of mulberry are generally considered to be white, red, and black, the most common species of which are the Morus alba (white mulberry), Morus rubra (red mulberry), and Morus nigra (black mulberry).  
 <param ve-image
-	   src="gh:pikaapocket/plant-humanities/main/mulberry/P 4 Morus Rubra Watercolor.jpeg"
+	   src="gh:pikaapocket/plant-humanities/main/mulberry/P 4 Morus Rubra Watercolor.jpg"
 	   caption="Watercolor illustration of *Morus rubra* by Tessie Frank, circa 1895-1935. Courtesy of Harvard University, public domain via Harvard Library.">
 <param ve-image
-	   src="gh:pikaapocket/plant-humanities/main/mulberry/P 4 Morus Alba Watercolor.jpeg"
+	   src="gh:pikaapocket/plant-humanities/main/mulberry/P 4 Morus Alba Watercolor.jpg"
 	   caption="Watercolor illustration of *Morus alba* by Tessie Frank, circa 1895-1935. Courtesy of Harvard University, public domain via Harvard Library.">
+	   <param ve-image
+	   src="wc:llustration_from_Medical_Botany,_digitally_enhanced_from_rawpixel%27s_own_original_plates_88.jpg"
+	   caption="Illustration of *Morus nigra* from *Medical Botany* by John Stephenson and James Morss Churchill, circa 1836. Accessed via Harvard Library.">
 
 The white mulberry is believed to be native to East Asia and the Himalayas, although centuries of domestication and human movement have made it difficult to know its native range for certain.[^7] Less intensive human relationships have allowed more certainty to the whereabouts of the other groups’ native ranges: the red mulberry is from North America and the black mulberry is from the area around the Caspian Sea in what used to be the Persian Empire. This narrative focuses on the white mulberry—most famous for its role in silk production—and the red mulberry, which, as we will discover, plays a less well-known but equally valuable role in North America’s biocultural heritage.[^8]
 
@@ -102,9 +105,8 @@ The first concrete evidence of sericulture was discovered in Shandong and Huzhou
 	   src="wc:Neolithic_Bone_Needles_(9929219405).jpg"
 	   caption="Neolithic-age bone needles found in Shanxi, China, which is believed to be some of the earliest evidence of sericulture ever found. Gary Todd from Xinzheng, China, CC0, via Wikimedia Commons.">
 <param ve-image
-	   src="wc:pikaapocket/plant-humanities/main/mulberry/P15 Gathering Mulberry.jpeg"
+	   src="gh:pikaapocket/plant-humanities/main/mulberry/P15 Gathering Mulberry.jpeg"
 	   caption="Engraving of silk manufacture in China, gathering mulberry leaves. Wellcome Collection, United Kingdom - CC BY.">
-	   <param ve-image>
 
 ### White Mulberry's Journey to Virginia
 

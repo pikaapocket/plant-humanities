@@ -17,7 +17,7 @@ Addressing the House of Representatives on Thursday, February 24, 1831, Abel Whe
 
 >The only appropriate food for the silkworm is the leaf of the mulberry tree. It should be the first business therefore of the silk grower to provide himself with the source of a constant supply of mulberry leaves.[^4]
 
-Here we tell the story of loss, but also one of renewal and metamorphosis. In the shadows of the fields haunted by white mulberries rose the canopies of another tree: Morus rubra, the red mulberry native to North America. While the red mulberry is found almost nowhere else in the world but North America, more often than not it is the white mulberry that comes to mind when we think of a mulberry tree. The white mulberry has captured attention throughout history, both within and outside its native ranges, overshadowing the red mulberry, even in its home continent. 
+Here we tell the story of loss, but also one of renewal and metamorphosis. In the shadows of the fields haunted by white mulberries rose the canopies of another tree: *Morus rubra*, the red mulberry native to North America. While the red mulberry is found almost nowhere else in the world but North America, more often than not it is the white mulberry that comes to mind when we think of a mulberry tree. The white mulberry has captured attention throughout history, both within and outside its native ranges, overshadowing the red mulberry, even in its home continent. 
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P2 Morus rubra iNaturalist.jpeg"
 	   caption="Leaf of Morus rubra, the red mulberry. Photo credit lanechaffin 2024">
@@ -29,7 +29,7 @@ The story of the red mulberry is a less glamorous one than that of the white mul
 
 ### Taxonomy, Genus, and Types of Mulberry
 
-The mulberry genus Morus is part of the family Moraceae, which includes mulberries and figs. Even within mulberry species, morphology differs greatly, especially with the white mulberry. It is unclear how many mulberry species listed in the genus are distinct, with estimates ranging from eight to seventeen.[^6] However, the three main types of mulberry are generally considered to be white, red, and black, the most common species of which are the Morus alba (white mulberry), Morus rubra (red mulberry), and Morus nigra (black mulberry).  
+The mulberry genus *Morus* is part of the family *Moraceae*, which includes mulberries and figs. Even within mulberry species, morphology differs greatly, especially with the white mulberry. It is unclear how many mulberry species listed in the genus are distinct, with estimates ranging from eight to seventeen.[^6] However, the three main types of mulberry are generally considered to be white, red, and black, the most common species of which are the *Morus alba* (white mulberry), *Morus rubra* (red mulberry), and *Morus nigra* (black mulberry).  
 <param ve-image
 	   src="gh:pikaapocket/plant-humanities/main/mulberry/P 4 Morus Rubra Watercolor.jpg"
 	   caption="Watercolor illustration of *Morus rubra* by Tessie Frank, circa 1895-1935. Courtesy of Harvard University, public domain via Harvard Library.">
@@ -47,8 +47,6 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
             show-labels
             stroke-width="0"
 			caption="Possible native distribution of *Morus alba*.">
-
-
 <param ve-map-layer 
 	        geojson
             url="https://raw.githubusercontent.com/pikaapocket/plant-humanities/main/mulberry/Morus_rubra_Distribution_Map.json"
@@ -62,18 +60,18 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
             stroke-width="0"
 			caption="Possible native distribution of *Morus nigra*.">
 
-Morus trees bear long aggregate fruit, somewhat resembling a blackberry, which come in various colors—green, white, red, black—and are rich in antioxidants. But the most historically significant, valuable part of most mulberry trees has been their leaves. Like the trees themselves, the leaves of the mulberry vary greatly in form, with leaf texture and shape ranging from shiny to matte, lobed or not. There can be dozens of differently shaped leaves even on the same tree. On no other tree has the leaf been more valuable than the white mulberry. Characterized in one text as a "sociable and loyal" tree that is "used to being of service to others," it is the white mulberry whose leaves allow the silkworm to produce the best quality of silk.[^9]
+*Morus* trees bear long aggregate fruit, somewhat resembling a blackberry, which come in various colors—green, white, red, black—and are rich in antioxidants. But the most historically significant, valuable part of most mulberry trees has been their leaves. Like the trees themselves, the leaves of the mulberry vary greatly in form, with leaf texture and shape ranging from shiny to matte, lobed or not. There can be dozens of differently shaped leaves even on the same tree. On no other tree has the leaf been more valuable than the white mulberry. Characterized in one text as a "sociable and loyal" tree that is "used to being of service to others," it is the white mulberry whose leaves allow the silkworm to produce the best quality of silk.[^9]
 <param ve-image
 	   src:"wc:Morus_alba-leaves.jpg"
 	   caption:"A variety of forms *Morus alba* leaves can take. Publicly available via Wikimedia Commons.">
 
 ### Sericulture: The Alchemy that Creates Raw Silk
 
-The larvae of a species of moth called Bombyx mori, more commonly known as the silkworm, produce silk. Over centuries of domestication, the once-wild silk moth Bombyx mandarina was bred into the familiar Bombyx mori, maintaining its preference for white mulberry leaves, while the white mulberry was bred to contain fewer tannins and more protein to promote silkworm growth.[^10] For the blind, flightless larvae, the leaves of the white mulberry are one of the only foods they will eat and what they are most partial to. Their cocoons, made from the secretions from two glands, harden into a long delicate fiber rich in protein.[^11] Measuring between 600 and 900 meters in length, it is this filament that the worms produce that becomes the luxurious material known as silk.  
+The larvae of a species of moth called *Bombyx mori*, more commonly known as the silkworm, produce silk. Over centuries of domestication, the once-wild silk moth *Bombyx mandarina* was bred into the familiar *Bombyx mori*, maintaining its preference for white mulberry leaves, while the white mulberry was bred to contain fewer tannins and more protein to promote silkworm growth.[^10] For the blind, flightless larvae, the leaves of the white mulberry are one of the only foods they will eat and what they are most partial to. Their cocoons, made from the secretions from two glands, harden into a long delicate fiber rich in protein.[^11] Measuring between 600 and 900 meters in length, it is this filament that the worms produce that becomes the luxurious material known as silk.  
 <param ve-video
 	   src="77ktNSPFbwQ">
 
-During the usual production process, sericulturists steam the cocoons to kill the larvae. This prevents the precious thread from breaking when the adolescent moth emerges, although sometimes twisting the filaments from several cocoons together is required.[^12] A more humane production method uses the filzament left over after the moth has emerged from the cocoon, rejoining them with the filaments that have been broken through twisting. By sparing the silkworm, the silk this method produces becomes Ahimsa silk. The result in either case is a single strand of silk thread.[^13] This incredible substance traveled around the globe, and where silk went, so too did the silkworm Bombyx mori and the white mulberry.[^14]
+During the usual production process, sericulturists steam the cocoons to kill the larvae. This prevents the precious thread from breaking when the adolescent moth emerges, although sometimes twisting the filaments from several cocoons together is required.[^12] A more humane production method uses the filzament left over after the moth has emerged from the cocoon, rejoining them with the filaments that have been broken through twisting. By sparing the silkworm, the silk this method produces becomes Ahimsa silk. The result in either case is a single strand of silk thread.[^13] This incredible substance traveled around the globe, and where silk went, so too did the silkworm *Bombyx mori* and the white mulberry.[^14]
 <param ve-compare
             src="wc:Shawl_(AM 2017.103.9-8).jpg"
             caption="Swipe across images to compare regular silk (left) and Ahimsa/tussah silk (right).">
@@ -193,7 +191,7 @@ Since a silkworm consumes about sixty grams of white mulberry leaves during its 
 
 ### The Love Affair Turns Sour
 
-Present in the landscapes of our childhoods and imaginations, how was it that the mulberry tree transformed from the harbinger of wealth to a pest, by some accounts, even an invasive species? A key factor is "mulberry mania," which took hold of the northeastern United States in the 1830s. The fast-growing Morus multicaulis tree—a white mulberry variant that arrived in the United States from China, had immediate appeal. Its large leaves were easy to harvest and provided an abundant and nutritious source of food for silkworms. State subsidies encouraged the widespread planting of trees to supply an ever-increasing number of forays into silk production.[^56]  
+Present in the landscapes of our childhoods and imaginations, how was it that the mulberry tree transformed from the harbinger of wealth to a pest, by some accounts, even an invasive species? A key factor is "mulberry mania," which took hold of the northeastern United States in the 1830s. The fast-growing *Morus multicaulis* tree—a white mulberry variant that arrived in the United States from China, had immediate appeal. Its large leaves were easy to harvest and provided an abundant and nutritious source of food for silkworms. State subsidies encouraged the widespread planting of trees to supply an ever-increasing number of forays into silk production.[^56]  
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 26 image 1 Growth and Manufacture of Silk 1828.jpeg"
 	   caption="Representation of the different ages of the silk worm. Illustration in The growth and manufacture of silk 1828 Secretary of the Treasury. Courtesy of Oak Springs Library">
@@ -254,12 +252,12 @@ The red mulberry has not dwindled to the same extent in the United States.[^86] 
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 36 wikimedia The_tree_bookjpg.jpg"
 	   caption="Photograph in the book A popular guide to knowledge of the trees of North America and to their uses and cultivation by Julia Ellen Rogers. Creative Commons on Wikimedia.">
 
-In the landscapes of past and present,the red mulberry inhabits a deep history that is particularly North American. The centenarian tree at Lewis Ginter Botanical Garden attracts generations of children and adults every season, whether to savor its juicy berries, climb its branches, or sit in its shade when it is in full and generous leaf. While this beloved red mulberry is firmly part of visitors’ memories, blogs, texts and photographs, there is another tree whose chronicle stretches further back in time, to the early days of the nation: the Yorktown-Washington tree, a mulberry tree under which it is said that George Washington slept "undisturbed, unvisited, unphotographed."[^89] 
+In the landscapes of past and present, the red mulberry inhabits a deep history that is particularly North American. The centenarian tree at Lewis Ginter Botanical Garden attracts generations of children and adults every season, whether to savor its juicy berries, climb its branches, or sit in its shade when it is in full and generous leaf. While this beloved red mulberry is firmly part of visitors’ memories, blogs, texts and photographs, there is another tree whose chronicle stretches further back in time, to the early days of the nation: the Yorktown-Washington tree, a mulberry tree under which it is said that George Washington slept "undisturbed, unvisited, unphotographed."[^89] 
 <param ve-image
 	   src="wc:Bataille_de_Yorktown_by_Auguste_Couder.jpg"
 	   caption="George Washington accepts the surrender of the British General Charles Cornwallis in 1781 after the battle of Yorktown. Photograph of a painting by Auguste Couder. Commons Licensing Wikimedia ">
 
-Building on its deeply rooted presence in American history,the mulberry, particularly the native red mulberry, once held great promise for hopeful American planters. Although it had existed in the Americas for thousands of years, it was silk that moved the white mulberry and its genus to international prominence. The eventual end of sericulture and the American silk industry condemned the white mulberry as messy and undesirable. 
+Building on its deeply rooted presence in American history, the mulberry, particularly the native red mulberry, once held great promise for hopeful American planters. Although it had existed in the Americas for thousands of years, it was silk that moved the white mulberry and its genus to international prominence. The eventual end of sericulture and the American silk industry condemned the white mulberry as messy and undesirable. 
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 38 Morus_rubra_NRCS-1.png"
 	   caption="The full canopy of a red mulberry tree.Wikimedia commons">
